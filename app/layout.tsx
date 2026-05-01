@@ -7,12 +7,12 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Northmark Studios | Custom Software for Real Estate & Small Business',
-  description: 'We build systems that help your business get more customers and run more efficiently. Lead generation platforms, dashboards, and custom solutions.',
+  title: 'David Sunny | Full Stack Developer',
+  description: 'I build thoughtful software across web, iOS, and Android. Python, React, TypeScript, and native development.',
   generator: 'v0.app',
   icons: {
-    icon: '/logo.png',
-    apple: '/logo.png',
+    icon: '/profile.jpg',
+    apple: '/profile.jpg',
   },
 }
 
